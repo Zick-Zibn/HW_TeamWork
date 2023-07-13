@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6dcabdba-e8fb-438c-ae97-d9e64873e6c3">
+  <producedTypes>
+    <objectType typeId="f3388871-018d-491a-ba5a-9082c9fcde2b" valueTypeId="74a272d0-db45-42f2-96db-222eaf046a6c"/>
+    <refType typeId="74a205cf-0d36-4a4b-9224-72d7842ebb83" valueTypeId="3bd16916-13af-4513-b10c-2a85c637422d"/>
+    <selectionType typeId="aa682407-2a76-4b41-9028-1d91eb5e55da" valueTypeId="dcefcb7b-dbb7-4ed8-ad33-cdb4ada1010d"/>
+    <listType typeId="d7a9d3b0-9f8c-4858-bca5-9c1c32338a0d" valueTypeId="9355774c-442e-4514-ae10-27db3e054b0b"/>
+    <managerType typeId="48567203-ce20-43d7-a4d4-90a800d67445" valueTypeId="e1fdf2ef-d7aa-4e50-b9b0-821bbce5dc5c"/>
+  </producedTypes>
+  <name>НТЛ_Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>НТЛ должности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.НТЛ_Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.НТЛ_Должности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
