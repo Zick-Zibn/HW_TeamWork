@@ -10,7 +10,7 @@
   <name>НТЛ_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>НТЛ должности</value>
+    <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.НТЛ_Должности.StandardAttribute.Code</inputByString>
